@@ -1,5 +1,5 @@
 function Home() {
-    const view = `
+    const view = /*html*/ `
         <div class="characters">
             <article class="character-item">
                 <a href="#/1/">

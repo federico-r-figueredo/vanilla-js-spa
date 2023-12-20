@@ -1,5 +1,5 @@
 function Header() {
-    const view = `
+    const view = /*html*/ `
         <div class="header-main">
             <div class="header-logo">
                 <h1>
