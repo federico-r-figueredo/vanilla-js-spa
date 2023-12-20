@@ -1,5 +1,5 @@
 function Header() {
-    return `
+    const view = `
         <div class="header-main">
             <div class="header-logo">
                 <h1>
@@ -15,6 +15,8 @@ function Header() {
             </div>
         </div>
     `;
+
+    return view;
 }
 
 export default Header;

@@ -1,5 +1,5 @@
 function Home() {
-    return `
+    const view = `
         <div class="characters">
             <article class="character-item">
                 <a href="#/1/">
@@ -9,6 +9,8 @@ function Home() {
             </article>
         </div>
     `;
+
+    return view;
 }
 
 export default Home;
