@@ -14,3 +14,5 @@ async function router() {
 
     header.innerHTML = await Header();
 }
+
+export default router;
