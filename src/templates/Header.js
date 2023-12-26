@@ -3,7 +3,7 @@ function Header() {
         <div class="header-main">
             <div class="header-logo">
                 <h1>
-                    <a href="/">
+                    <a href="#/">
                         Home
                     </a>
                 </h1>
